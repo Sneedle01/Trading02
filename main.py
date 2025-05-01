@@ -1,0 +1,1 @@
+print("Trading-Bot gestartet...")
